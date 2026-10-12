@@ -1,0 +1,2 @@
+# RemoveBlurSR
+RemoveBlur for StarRail
